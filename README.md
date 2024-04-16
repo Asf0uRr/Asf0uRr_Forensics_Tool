@@ -21,7 +21,7 @@ cd Asf0uRr_Forensics_Tool
 2) unzip Tool
    
 ```shell
-sudo unzip compressed_Tool.zip
+sudo unzip Tool_compressed.zip
 ```
 3) open folder
  ```shell
