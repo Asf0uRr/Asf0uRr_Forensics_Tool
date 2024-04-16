@@ -12,7 +12,7 @@ You can download the tool through this command
 ```shell
 sudo git clone https://github.com/Asf0uRr/Asf0uRr_Forensics_Tool.git
 ```
-# Uasge
+# Usege
 To use the tool effectively, follow these steps:
 1) open the folder
  ```shell
