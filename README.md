@@ -8,18 +8,18 @@ The main objective of the tool is to enhance the efficiency and effectiveness of
 # Functionality:
 The tool offers a range of functionalities essential for digital forensics investigations, including:
 
-Media Analysis: Supports analysis of various media files such as images, videos, and audio files using tools like ExifTool, strings, and binwalk.
-Memory Analysis: Provides capabilities for analyzing memory dumps using tools like Volatility Framework and YARA.
-Network Analysis: Facilitates inspection and analysis of network traffic using tools like Wireshark, tcpdump, and snort.
-Automation: Automates analysis tasks to improve efficiency and reduce manual effort.
-User Interface: Features a user-friendly interface with clear options for easy navigation and execution of analysis functions.
+* Media Analysis: Supports analysis of various media files such as images, videos, and audio files using tools like ExifTool, strings, and binwalk.
+* Memory Analysis: Provides capabilities for analyzing memory dumps using tools like Volatility Framework and YARA.
+* Network Analysis: Facilitates inspection and analysis of network traffic using tools like Wireshark, tcpdump, and snort.
+* Automation: Automates analysis tasks to improve efficiency and reduce manual effort.
+* User Interface: Features a user-friendly interface with clear options for easy navigation and execution of analysis functions.
 # Key Components:
 The key components of the tool include:
 
-Integration of multiple command-line tools for digital forensics analysis.
-Compatibility with Kali Linux operating system, specifically tailored for penetration testing and digital forensics tasks.
-Support for bash scripting environment, enabling the implementation of automation and analysis tasks.
-Validation through testing and feedback from security operations centers (SOC), capture the flag (CTF) players, and cybersecurity education communities.
+* Integration of multiple command-line tools for digital forensics analysis.
+* Compatibility with Kali Linux operating system, specifically tailored for penetration testing and digital forensics tasks.
+* Support for bash scripting environment, enabling the implementation of automation and analysis tasks.
+* Validation through testing and feedback from security operations centers (SOC), capture the flag (CTF) players, and cybersecurity education communities.
 
 # How Download tool 
 Firstly
