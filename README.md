@@ -1,4 +1,5 @@
 # Asf0uRr_Forensics_Tool
+![Screenshot](gg.png)
 # Description:
 The tool is designed to be a comprehensive solution for digital forensics analysis, consolidating various functionalities into a unified platform. It aims to simplify and streamline the investigation process by providing an intuitive interface and integrating multiple command-line tools. Developed specifically for Kali Linux, it caters to the needs of digital forensics practitioners, offering efficient analysis capabilities across different domains, including media, memory, and network forensics.
 
