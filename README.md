@@ -37,7 +37,7 @@ cd Asf0uRr_Forensics_Tool
 2) unzip Tool
    
 ```shell
-sudo unzip Tool_compressed.zip
+sudo unzip Tool_compressed.rar
 ```
 3) open folder
  ```shell
@@ -53,11 +53,11 @@ chmod +x requirements_Asf0uRr
 5)READY TO USE 
 give tool permission
  ```shell
-chmod +x Asf0uRr_Tool.sh
+chmod +x Asf0uRrTool.sh
 ```
 6)Ready to use :
  ```shell
-./Asf0uRr_Tool.sh file
+./Asf0uRrTool.sh file
 ```
 # Enjoy ....
 
